@@ -21,6 +21,6 @@ class WeatherApplicationTests {
    }
     @Test
     void trueTest(){
-        assertT(null);
+
     }
 }
